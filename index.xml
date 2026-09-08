@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sean Kelly on k3lly.uk site</title>
+		<link>https://k3lly.uk/</link>
+		<description>Recent content in Sean Kelly on k3lly.uk site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 07 May 2025 13:08:19 +0100</lastBuildDate>
+		
+			<atom:link href="https://k3lly.uk/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>When SASE Isn’t the Answer (Yet): A Cautionary Tale of Misaligned Success</title>
+				<link>https://k3lly.uk/blog/sase-not-quite/</link>
+				<pubDate>Wed, 07 May 2025 13:08:19 +0100</pubDate>
+				<guid>https://k3lly.uk/blog/sase-not-quite/</guid>
+				<description>&lt;p&gt;&lt;em&gt;The SASE platform was technically flawless. The network was secure. Access was smooth. Performance was stable. So why did the board cut the digital transformation budget the following year?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the world of modern enterprise IT, few acronyms have captured the imagination quite like SASE — Secure Access Service Edge. The promise is compelling: simplified architecture, improved performance, unified security. But like many powerful solutions, SASE is not immune to strategic misalignment.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Anatomy of a Breach: How One Spreadsheet Exposed an Entire Business (And How SASE Could Have Stopped It)</title>
+				<link>https://k3lly.uk/blog/sase-hack/</link>
+				<pubDate>Wed, 07 May 2025 09:03:29 +0100</pubDate>
+				<guid>https://k3lly.uk/blog/sase-hack/</guid>
+				<description>&lt;p&gt;It started, as so many stories do, with good intentions and bad habits.&lt;/p&gt;&#xA;&lt;p&gt;The breach wasn’t the result of advanced persistent threats or zero-day exploits. It wasn’t some masterstroke of technical wizardry. It began with a spreadsheet, a routine process, and a series of very human mistakes—each small on its own, but together enough to unlock the front door of an organisation.&lt;/p&gt;&#xA;&lt;p&gt;This is the story of how a fictional—but very plausible because it&amp;rsquo;s based somewhat on a real-world example—security incident unfolded inside a mid-sized professional services firm, and how the right architecture—specifically a Secure Access Service Edge (SASE) approach—could have disrupted the sequence of events before any real damage was done.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adopt a Phased Rollout Strategy: Making SASE Stick Through Smart Sequencing</title>
+				<link>https://k3lly.uk/blog/sase-phased/</link>
+				<pubDate>Sun, 04 May 2025 15:06:36 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-phased/</guid>
+				<description>&lt;p&gt;The real challenge of Secure Access Service Edge (SASE) isn’t choosing a technology — it’s scaling change across a complex, dynamic organisation.&lt;/p&gt;&#xA;&lt;p&gt;That’s why a well-executed pilot is only the beginning. To realise value at scale, you need a phased rollout strategy — one that breaks down ambition into actionable steps, balances stability with agility, and ensures that security, performance, and user experience improve together.&lt;/p&gt;&#xA;&lt;p&gt;Too often, technology leaders face pressure to deliver everything at once. But SASE isn&amp;rsquo;t just a set of capabilities to turn on — it’s a convergence of security, networking, identity, and operations. A “big bang” approach increases risk, slows learning, and overwhelms teams.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pilot with a Clear Scope: Proving the Value of SASE Through Focused Action</title>
+				<link>https://k3lly.uk/blog/sase-pilot/</link>
+				<pubDate>Sun, 04 May 2025 15:02:53 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-pilot/</guid>
+				<description>&lt;p&gt;Secure Access Service Edge (SASE) promises long-term transformation — but no successful transformation starts with a big-bang rollout. The path from strategy to adoption is best travelled in deliberate, manageable steps.&lt;/p&gt;&#xA;&lt;p&gt;That’s where the pilot comes in.&lt;/p&gt;&#xA;&lt;p&gt;A well-scoped pilot lets you validate assumptions, build internal confidence, and surface any technical, cultural, or operational issues before you scale. But too often, organisations either overreach with pilots that try to “do it all”, or underdeliver with setups that don’t show real value.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Build a Cross-functional Team: The Human Architecture Behind SASE Success</title>
+				<link>https://k3lly.uk/blog/sase-build-a-team/</link>
+				<pubDate>Sun, 04 May 2025 14:59:29 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-build-a-team/</guid>
+				<description>&lt;p&gt;When leaders talk about Secure Access Service Edge (SASE), the conversation often starts with platforms, capabilities, or vendors. But the most important architecture in your SASE programme isn’t built in the cloud — it’s built in the organisation.&lt;/p&gt;&#xA;&lt;p&gt;It’s your people.&lt;/p&gt;&#xA;&lt;p&gt;SASE is not a point solution. It’s a convergence of networking and security disciplines. It spans user experience, performance, risk, governance, and operations. No single team owns all of that — which is why cross-functional collaboration is essential.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Assess Current Capabilities: A Reality Check Before Your SASE Journey</title>
+				<link>https://k3lly.uk/blog/sase-assess/</link>
+				<pubDate>Sun, 04 May 2025 14:56:15 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-assess/</guid>
+				<description>&lt;p&gt;Secure Access Service Edge (SASE) offers a transformative vision — converging network and security functions into a unified, cloud-native architecture. It promises simplicity, agility, and a future-proof foundation for modern enterprise connectivity.&lt;/p&gt;&#xA;&lt;p&gt;But every journey needs a starting point.&lt;/p&gt;&#xA;&lt;p&gt;Before defining your SASE future state, you need a grounded understanding of where you stand today. That means assessing not just your technologies, but your architecture, operating model, risks, and readiness across people and process.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Start With the Business Needs: A SASE Strategy That Actually Works</title>
+				<link>https://k3lly.uk/blog/start-with-the-business/</link>
+				<pubDate>Sun, 04 May 2025 14:48:31 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/start-with-the-business/</guid>
+				<description>&lt;p&gt;In the world of enterprise IT, it&amp;rsquo;s all too easy to fall in love with a new architecture. Secure Access Service Edge (SASE) is one of those — a sweeping transformation that promises to unify security and networking, enable Zero Trust, improve performance, and reduce complexity.&lt;/p&gt;&#xA;&lt;p&gt;But here’s the hard truth: none of that matters if it doesn’t solve a real business problem.&lt;/p&gt;&#xA;&lt;p&gt;The most successful SASE programmes don’t begin with selecting a platform, comparing vendors, or rolling out pilots. They begin with a clear understanding of &lt;strong&gt;why&lt;/strong&gt; the business needs to evolve, &lt;strong&gt;where&lt;/strong&gt; it needs to operate more effectively, and &lt;strong&gt;how&lt;/strong&gt; security and connectivity must enable that change.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Addressing Performance Variability in SASE Deployments</title>
+				<link>https://k3lly.uk/blog/sase-performance/</link>
+				<pubDate>Sun, 04 May 2025 14:42:02 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-performance/</guid>
+				<description>&lt;p&gt;When organisations embark on the journey to adopt Secure Access Service Edge (SASE), performance is typically high on the list of expected benefits. The vision is clear: a seamless user experience across regions, consistent security without bottlenecks, and high availability for hybrid and remote users alike.&lt;/p&gt;&#xA;&lt;p&gt;But as with many transformations, reality can fall short of expectations.&lt;/p&gt;&#xA;&lt;p&gt;As deployments scale, leaders often encounter &lt;strong&gt;performance variability&lt;/strong&gt; — differences in speed, reliability, or availability that can affect users, regions, or services in inconsistent and unpredictable ways. These challenges are often subtle but disruptive, impacting trust, adoption, and business continuity.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Untangling Policy and Access Management Complexity in SASE</title>
+				<link>https://k3lly.uk/blog/sase-policy/</link>
+				<pubDate>Sun, 04 May 2025 14:38:31 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-policy/</guid>
+				<description>&lt;p&gt;One of the central promises of Secure Access Service Edge (SASE) is &lt;strong&gt;policy-driven control&lt;/strong&gt; — consistent, context-aware access and security policies, applied seamlessly across users, devices, locations, and applications.&lt;/p&gt;&#xA;&lt;p&gt;But many organisations quickly discover that implementing this vision is anything but simple.&lt;/p&gt;&#xA;&lt;p&gt;As businesses adopt SASE, they’re often confronted with a tangled web of legacy access rules, fragmented identity systems, overlapping security policies, and inconsistently enforced governance. Far from delivering simplicity, policy and access management becomes one of the most &lt;strong&gt;challenging areas&lt;/strong&gt; to unify.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Managing Vendor Complexity in SASE Adoption</title>
+				<link>https://k3lly.uk/blog/sase-vendor-complexity/</link>
+				<pubDate>Sun, 04 May 2025 14:29:33 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-vendor-complexity/</guid>
+				<description>&lt;p&gt;As organisations move toward Secure Access Service Edge (SASE), the goal is often to simplify — to consolidate security and networking capabilities into a unified, cloud-native model that’s easier to manage, scale, and secure.&lt;/p&gt;&#xA;&lt;p&gt;Yet ironically, many find that the early stages of SASE adoption &lt;strong&gt;introduce new complexity&lt;/strong&gt;, particularly in the form of &lt;strong&gt;vendor sprawl&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;With networking and security traditionally managed in separate silos — and a market crowded with feature-rich but overlapping solutions — leaders often face a maze of options, partners, contracts, and integration points.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Legacy Infrastructure and SASE: Navigating the Transition</title>
+				<link>https://k3lly.uk/blog/sase-legacy/</link>
+				<pubDate>Sun, 04 May 2025 13:33:22 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-legacy/</guid>
+				<description>&lt;p&gt;Secure Access Service Edge (SASE) promises a streamlined, cloud-native approach to networking and security — one that aligns with how modern organisations work and where their applications now live. But for many businesses, the journey to SASE runs straight into a familiar obstacle: &lt;strong&gt;legacy infrastructure and past investments&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Whether it’s on-premises firewalls, MPLS networks, or remote access VPNs, most organisations have spent years — even decades — building robust architectures based on technologies that pre-date cloud-first and hybrid work models. These systems still “work” — but they weren’t designed for today’s digital reality.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Navigating Cultural and Organisational Change in SASE Adoption</title>
+				<link>https://k3lly.uk/blog/sase-navigating-change/</link>
+				<pubDate>Sun, 04 May 2025 13:24:46 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/sase-navigating-change/</guid>
+				<description>&lt;p&gt;Secure Access Service Edge (SASE) is more than a technical upgrade — it’s a rethinking of how organisations connect and protect their digital assets in a cloud-first, hybrid-working world. As such, while the technologies behind SASE often get the most attention, one of the most significant — and frequently underestimated — hurdles to adoption is &lt;strong&gt;cultural and organisational change&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;For CIOs, CISOs, and Heads of IT or Security, the move to SASE can bring undeniable business benefits: agility, simplified operations, and stronger security. But achieving those outcomes requires more than just a well-crafted RFP or a smooth technical deployment. It requires &lt;strong&gt;new ways of working, collaborating, and thinking&lt;/strong&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>An Overview of SASE For Leaders</title>
+				<link>https://k3lly.uk/blog/an-overview-of-sase/</link>
+				<pubDate>Sun, 04 May 2025 11:52:02 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/an-overview-of-sase/</guid>
+				<description>&lt;p&gt;In today’s rapidly evolving digital environment, many organisations are under pressure to transform how they secure and connect their users, devices, and applications. As workforces become more distributed, cloud adoption accelerates, and cyber threats grow in scale and sophistication, traditional network and security architectures are showing their age.&lt;/p&gt;&#xA;&lt;p&gt;This is where &lt;strong&gt;Secure Access Service Edge (SASE)&lt;/strong&gt; comes into the picture. First defined in 2019, SASE is not just another technology acronym — it&amp;rsquo;s a strategic architectural shift that combines networking and security functions into a single, cloud-delivered service model. But for leaders, particularly those in CIO, CISO, or &amp;ldquo;Head of IT&amp;rdquo; roles, SASE can seem like a sprawling concept with plenty of hype and a complex web of features and vendor claims.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How a Modern Security Approach Could Have Prevented Recent Retail Cyberattacks</title>
+				<link>https://k3lly.uk/blog/the-case-for-sase-in-retail/</link>
+				<pubDate>Sun, 04 May 2025 11:47:45 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/the-case-for-sase-in-retail/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;The retail sector is under siege.&lt;/strong&gt; In recent weeks, several UK high street retailers have been hit by cyberattacks that disrupted operations, disabled payments, and took online ordering systems offline. The impact has ranged from temporary in-store downtime to significant reputational damage.&lt;/p&gt;&#xA;&lt;p&gt;For retailers who operate at high volume with narrow margins, even a short disruption can be costly — not just in terms of revenue, but in customer trust and brand perception. These incidents serve as a wake-up call that the traditional patchwork of legacy systems and perimeter-based defences is no longer enough.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rethinking Microsegmentation in Operational Technology: A Leader&#39;s Guide to Securing Flat Networks</title>
+				<link>https://k3lly.uk/blog/ot-vs-it/</link>
+				<pubDate>Sun, 04 May 2025 11:45:07 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/ot-vs-it/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;As operational technology (OT) environments become increasingly interconnected, the traditional flat network architectures that have long served industry are now a liability. With cyber threats targeting critical infrastructure and regulatory frameworks tightening, microsegmentation has emerged as a key strategy to reduce risk. But applying microsegmentation in OT isn&amp;rsquo;t as straightforward as in enterprise IT. While IT environments rely on layered, routed networks and endpoint agents, OT networks are often flat, agentless, and contain legacy systems that cannot be easily adapted.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Road to Tor</title>
+				<link>https://k3lly.uk/blog/road-to-tor/</link>
+				<pubDate>Sat, 03 May 2025 10:56:36 +0000</pubDate>
+				<guid>https://k3lly.uk/blog/road-to-tor/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;WARNING!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Underestimating the physical and psychological preparation and the proper clothing and equipment required can have serious and potentially life-threatening consequences!&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ok then, better get training for this then!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://k3lly.uk/images/tor.png&#34; alt=&#34;Giant in the Making!&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About Sean</title>
+				<link>https://k3lly.uk/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://k3lly.uk/about/</guid>
+				<description>&lt;p&gt;Hey there!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Sean, and I’m a Solution Architect who focuses on helping organisations adopt Secure Access Service Edge (SASE) in a way that’s grounded in business value—not just technical success.&lt;/p&gt;&#xA;&lt;p&gt;My career began on the command line as a Unix and Linux sysadmin. From there, I expanded into networking, storage, virtualisation, and automation. I was fortunate to be part of the x86 cloud revolution from the early days, spending years designing, building, and operating both private and public cloud platforms.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

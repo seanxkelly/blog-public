@@ -1,0 +1,52 @@
+backend:
+  name: github
+  repo: seanxkelly/blog
+  branch: main
+
+media_folder: static/images
+public_folder: /images
+
+site_url: https://k3lly.uk
+display_url: https://k3lly.uk
+
+collections:
+  - name: posts
+    label: Blog Posts
+    label_singular: Blog Post
+
+    folder: content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+
+    fields:
+      - label: Title
+        name: title
+        widget: string
+
+      - label: Date
+        name: date
+        widget: datetime
+
+      - label: Draft
+        name: draft
+        widget: boolean
+        default: true
+
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+
+      - label: Summary
+        name: summary
+        widget: text
+        required: false
+
+      - label: Featured Image
+        name: image
+        widget: image
+        required: false
+
+      - label: Body
+        name: body
+        widget: markdown
