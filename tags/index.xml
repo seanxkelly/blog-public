@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on k3lly.uk site</title>
+		<title>Tags on Sean Kelly</title>
 		<link>https://k3lly.uk/tags/</link>
-		<description>Recent content in Tags on k3lly.uk site</description>
+		<description>Recent content in Tags on Sean Kelly</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 10:43:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://k3lly.uk/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Backyard Ultras</title>
-				<link>https://k3lly.uk/tags/backyard-ultras/</link>
-				<pubDate>Fri, 13 Nov 2026 10:43:00 +0000</pubDate>
-				<guid>https://k3lly.uk/tags/backyard-ultras/</guid>
+				<title>300km</title>
+				<link>https://k3lly.uk/tags/300km/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://k3lly.uk/tags/300km/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Opinion</title>
-				<link>https://k3lly.uk/tags/opinion/</link>
-				<pubDate>Fri, 13 Nov 2026 10:43:00 +0000</pubDate>
-				<guid>https://k3lly.uk/tags/opinion/</guid>
+				<title>Italy</title>
+				<link>https://k3lly.uk/tags/italy/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://k3lly.uk/tags/italy/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Trail Running</title>
-				<link>https://k3lly.uk/tags/trail-running/</link>
-				<pubDate>Fri, 13 Nov 2026 10:43:00 +0000</pubDate>
-				<guid>https://k3lly.uk/tags/trail-running/</guid>
+				<title>Tor-Des-Geants</title>
+				<link>https://k3lly.uk/tags/tor-des-geants/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://k3lly.uk/tags/tor-des-geants/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Ultra Running</title>
-				<link>https://k3lly.uk/tags/ultra-running/</link>
-				<pubDate>Fri, 13 Nov 2026 10:43:00 +0000</pubDate>
-				<guid>https://k3lly.uk/tags/ultra-running/</guid>
+				<title>Ultramarathon</title>
+				<link>https://k3lly.uk/tags/ultramarathon/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://k3lly.uk/tags/ultramarathon/</guid>
 				<description></description>
 			</item>
 	</channel>
